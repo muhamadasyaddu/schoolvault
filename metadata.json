@@ -1,0 +1,6 @@
+{
+  "name": "SchoolVault - Sistem Arsip & Memori Digital Sekolah",
+  "description": "Sistem arsip dan manajemen memori digital sekolah berbasis event-centric untuk mendokumentasikan kegiatan, dokumen, foto, verifikasi arsip, timeline, dan audit log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
