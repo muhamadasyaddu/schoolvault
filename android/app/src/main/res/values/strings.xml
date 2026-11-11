@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SchoolVault</string>
+    <string name="title_activity_main">SchoolVault</string>
+    <string name="package_name">id.sch.informatikautama.schoolvault</string>
+    <string name="custom_url_scheme">id.sch.informatikautama.schoolvault</string>
+</resources>
